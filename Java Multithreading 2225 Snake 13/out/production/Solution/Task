@@ -1,0 +1,8 @@
+
+Snake 13
+
+I suggest you write a special sleep () method this time.
+Which will pause depending on the length of the snake (the number of elements in sections).
+Come up with some tricky algorithm. So that at the first level, the pause was 500 milliseconds,
+and to level 10 it gradually decreased to 300.
+And below 200 did not fall.
